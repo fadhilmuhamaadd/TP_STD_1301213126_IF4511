@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1665936215 source:d:\doc\telkom\kuloah\strukdat\tugas\tpmod4\main.cpp
+	"SLL.h"
+
+1665935876 d:\doc\telkom\kuloah\strukdat\tugas\tpmod4\sll.h
+	<iostream>
+
+1665936362 source:d:\doc\telkom\kuloah\strukdat\tugas\tpmod4\sll.cpp
+	"SLL.h"
+

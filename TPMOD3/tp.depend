@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1665342437 source:d:\doc\telkom\kuloah\strukdat\tugas\tp\main.cpp
+	"member.h"
+
+1665342365 d:\doc\telkom\kuloah\strukdat\tugas\tp\member.h
+	<iostream>
+	<cstdlib>
+
+1665342457 source:d:\doc\telkom\kuloah\strukdat\tugas\tp\member.cpp
+	"member.h"
+

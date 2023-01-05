@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1666561043 source:d:\doc\telkom\kuloah\strukdat\tugas\menu_1301213126\main.cpp
+	"menu.h"
+
+1666561038 d:\doc\telkom\kuloah\strukdat\tugas\menu_1301213126\menu.h
+	<iostream>
+
+1666562848 source:d:\doc\telkom\kuloah\strukdat\tugas\menu_1301213126\menu.cpp
+	"menu.h"
+

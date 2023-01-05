@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1668355057 source:d:\doc\telkom\kuloah\strukdat\tugas\tp_mod8_1301213126_if4511\main.cpp
+	"CSLL.h"
+
+1668353066 d:\doc\telkom\kuloah\strukdat\tugas\tp_mod8_1301213126_if4511\csll.h
+	<iostream>
+
+1668355956 source:d:\doc\telkom\kuloah\strukdat\tugas\tp_mod8_1301213126_if4511\csll.cpp
+	"CSLL.h"
+

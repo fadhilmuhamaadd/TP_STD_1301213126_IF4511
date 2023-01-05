@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1664728592 source:d:\doc\telkom\kuloah\strukdat\tugas\hello\main.cpp
+	"hello.h"
+
+1664728588 d:\doc\telkom\kuloah\strukdat\tugas\hello\hello.h
+	<iostream>
+	<cstdlib>
+
+1664728817 source:d:\doc\telkom\kuloah\strukdat\tugas\hello\hello.cpp
+	"hello.h"
+

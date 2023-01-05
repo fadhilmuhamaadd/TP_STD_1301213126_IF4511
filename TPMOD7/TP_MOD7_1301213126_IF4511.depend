@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667772097 source:d:\doc\telkom\kuloah\strukdat\tugas\tp_mod7_1301213126_if4511\main.cpp
+	"Nasabahbrng.h"
+
+1667770164 d:\doc\telkom\kuloah\strukdat\tugas\tp_mod7_1301213126_if4511\nasabahbrng.h
+	<iostream>
+
+1667771791 source:d:\doc\telkom\kuloah\strukdat\tugas\tp_mod7_1301213126_if4511\nasabahbrng.cpp
+	"Nasabahbrng.h"
+

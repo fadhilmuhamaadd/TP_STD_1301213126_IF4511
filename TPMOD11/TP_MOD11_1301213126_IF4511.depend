@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1670178317 source:d:\doc\telkom\kuloah\strukdat\tugas\tp_mod11_1301213126_if4511\main.cpp
+	<iostream>
+	"Queue.h"
+
+1670178317 source:d:\doc\telkom\kuloah\strukdat\tugas\tp_mod11_1301213126_if4511\queue.cpp
+	"Queue.h"
+
+1670175038 d:\doc\telkom\kuloah\strukdat\tugas\tp_mod11_1301213126_if4511\queue.h
+	<iostream>
+

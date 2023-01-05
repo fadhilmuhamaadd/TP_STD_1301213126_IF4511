@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1669576843 source:d:\doc\telkom\kuloah\strukdat\tugas\tp_mod10_1301213126_if4511\main.cpp
+	<iostream>
+	"stack.h"
+
+1669576790 source:d:\doc\telkom\kuloah\strukdat\tugas\tp_mod10_1301213126_if4511\stack.cpp
+	"stack.h"
+
+1669576790 d:\doc\telkom\kuloah\strukdat\tugas\tp_mod10_1301213126_if4511\stack.h
+	<iostream>
+

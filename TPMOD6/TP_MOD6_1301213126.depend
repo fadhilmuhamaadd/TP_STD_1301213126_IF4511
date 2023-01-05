@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1667153858 source:d:\doc\telkom\kuloah\strukdat\tugas\tp_mod6_1301213126\main.cpp
+	<iostream>
+	"Rumah.h"
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1667153898 d:\doc\telkom\kuloah\strukdat\tugas\tp_mod6_1301213126\rumah.h
+	<iostream>
+
+1667153355 source:d:\doc\telkom\kuloah\strukdat\tugas\tp_mod6_1301213126\rumah.cpp
+	"Rumah.h"
+
